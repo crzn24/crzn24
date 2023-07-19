@@ -1,6 +1,7 @@
 <!-- <img src="./assets/" width="1200" height="200"> -->
 <h1 align="left">
 <img src="./assets/hellothereobi.gif" height="100">
+<img src="./assets/grogushock.gif" height="100">
 </h1>
 
 ### Hello there 👋
