@@ -1,4 +1,9 @@
-### Hi there 👋
+<!-- <img src="./assets/" width="1200" height="200"> -->
+<h1 align="left">
+<img src="./assets/hellothereobi.gif" height="100">
+</h1>
+
+### Hello there 👋
 
 - I recently completed a Full Stack Web Developer Bootcamp at the University of Washington
 
