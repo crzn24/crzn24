@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I recently completed a Full Stack Web Developer Bootcamp at the University of Washington
+
 <!--
 **crzn24/crzn24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
