@@ -16,10 +16,16 @@ Nathan Cruz
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![crzn24's GitHub stats](https://github-readme-stats.vercel.app/api?username=crzn24&theme=shades-of-purple&show_icons=true)
+<a href="https://github.com/crzn24/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=crzn24&theme=shades-of-purple&show_icons=true" />
+</a>
+<a href="https://github.com/crzn24/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crzn24&langs_count=8&card_width=320&layout=donut&theme=shades-of-purple" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crzn24&layout=donut&theme=shades-of-purple)](https://github.com/crzn24/github-readme-stats)
+<!-- ![crzn24's GitHub stats](https://github-readme-stats.vercel.app/api?username=crzn24&theme=shades-of-purple&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crzn24&layout=donut&theme=shades-of-purple)](https://github.com/crzn24/github-readme-stats) -->
 
 
 
